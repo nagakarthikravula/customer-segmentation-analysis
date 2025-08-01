@@ -18,3 +18,8 @@ Provided the dataset in repository(Understanding Customer Personality Data)
 --> Id - Counted null values in this column,and duplicate customer id
 --> Repeated checking null values for all columns
 --> Filled missing Income values with average of existing data
+-->> Added Cutomer_Tenure,Children,Totalspending columns
+    Customer_Tenure = Date of customer joined - current date
+    Children = KidHome + TeenHome
+    TotalSpending = MntFishProducts + MntFruits + MntGoldProds + MntMeatProducts + MntSweetProducts + MntWines
+-->Replaced the table without Z_CostContact,Z_Revenue 
