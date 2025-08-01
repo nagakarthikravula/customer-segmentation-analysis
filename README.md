@@ -23,3 +23,6 @@ Provided the dataset in repository(Understanding Customer Personality Data)
     Children = KidHome + TeenHome
     TotalSpending = MntFishProducts + MntFruits + MntGoldProds + MntMeatProducts + MntSweetProducts + MntWines
 -->Replaced the table without Z_CostContact,Z_Revenue 
+
+**Step-3: Exploratory Data Analysis(EDA)
+-->
