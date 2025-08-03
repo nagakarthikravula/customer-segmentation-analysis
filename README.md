@@ -25,4 +25,16 @@ Provided the dataset in repository(Understanding Customer Personality Data)
 -->Replaced the table without Z_CostContact,Z_Revenue 
 
 **Step-3: Exploratory Data Analysis(EDA)
--->
+-->Answering Stake Holder Questions
+1.	Which age group contributes the most revenue?	
+2.	Which product category has the highest average spending per customer?
+3.  What is the average income by education level?
+4.	How does marital status affect web purchases?
+5.	Are customers who accepted previous campaigns more likely to respond to the current one?
+6.	Is there a relationship between customer tenure and total spending?
+7.	Which sales channel (web, store, catalog) is most preferred by high-income customers?
+8.	What percentage of customers have made complaints? Does this vary by education or income level?
+9.  Do customers with more kids tend to spend less?
+10.    Are there differences in behavior between customers who accepted multiple campaigns and those who didn’t?
+
+⚪ Insights and queries related to these questions are in EDA page
