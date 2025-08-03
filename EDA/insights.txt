@@ -1,0 +1,58 @@
+Insights from Stakeholder questions
+
+1. Which age group contributes the most revenue?
+    What: Age of 55 generates most revenue and ages of 29,30 least revenue.
+    So What: This tells that older one are interacting more with our products/services while the younger(29,30) are least revenue generative.
+    Now What: Conducting campaigns on what younger one are missing that older one are satisfying.Based on the insight adjusting prices,offers.
+2. Which product category has the highest average spending per customer?
+    What: Wine has the highest average spend per customer (294$).While sweets and fish have lowest.
+    So What: This gives us customers most spend on wines than on other products and not interested in buying other.
+    Now What: Finding why customers are not interested in buying other items Fish,Sweets,etc..
+    And improving marketing of Least bought items.
+3. What is the average income by education level?
+    What: Customers with PhD has the highest averge income,while customers with lowest education has lowest.
+    So What:  This determines that, the one with highest education  tends to earns more and with lowest education earns less.
+    Now What:  Offering education help to lowest education level can increase the engagement and increase sales.
+4. How does marital status affect web purchases?
+    What: Widow(4.42), divorced(4.28) have the highest avg_web purchases followed by married(4.07), together(4.0), single(3.8).
+    So What: This says that widow,divorced  and married most likely to purchase online due to domestic works at home
+    Now What: 
+    •	Giving special offers,discounts to these categories can improve the customer satisfaction
+    •	focusing on why singles are not interested to buy online.
+5. Are customers who accepted previous campaigns more likely to respond to the current one?
+    What: Accepting rate of latest campaign compared to previous campaigns.
+    So What: There are 10%(198 out of 1907) accepting latest campaign compared to past campaigns.While there is a consistency acceptance in the latest campaign ,who are accepting past campaigns.
+    Now What: Encouraging customers to accept campaign.
+    Yes, customers are responding to latest campaigns compared to past
+6. Is there a relationship between customer tenure and total spending?
+  	What: customers with 12 years history spending is more compared to 11,13
+  	So What: This tells that how loyal customers are upon years.
+  	Now What: Maintaining the service to retain loyalty towards customers.
+    Overall Yes, There is relation between customer tenure and total spending.
+7.Which sales channel (web, store, catalog) is most preferred by high-income customers?
+    What: Purchasing in store is the most used method by high income customers.
+    So What: This tells that In-Store followed by Online purchase through website is most used channel,While Catalog (using phone,mail) is least used .
+    Now What: 
+    •	Promoting  offers in In-Store,Website to maintain consistency.
+    •	Encouraging catalog customers shift towards these channel to make ease of access.
+8. What percentage of customers have made complaints? Does this vary by education or income level?
+    What: (0.89%) of customers have made complaints out of 2130 customers.Yes, it does vary. The customers with grad education gave complaints than others and customers with lowest income made complaints more than high income.
+    So What: This determines there is less complaint percentage from overall customers.If  had to count less percentage there are some segments to solve issues
+    Now What: Going through the complaints and resolve issues to make sure  customer feel satisfied.
+9.Do customers with more kids tend to spend less?
+    What: Customers without have a total spending of 624372,Significantly greater than kids with one or more.	
+    So What: This says that customers with kids spend low to manage their domestic   expenses and responsibilities.
+    Now What: Giving Coupons,offers and discounts to customers with kids to increase the sales.
+10. Are there differences in behaviour between customers who accepted multiple campaigns and those who didn’t?
+  	What: Tells that who attends more campaigns ,have
+  •	High income
+  •	Less complaint percentage
+  •	High average spending compared to others.
+  So What: 
+  •	This helps to understand behaviour of a customer who attends multiple campaings are loyal.
+  •	Majority of customers are not interested in attending campaigns.
+  Now What:
+  •	Give rewards to customers who attend multiple campaigns.
+  •	Promote customers to attend the campaign by try new methods.
+
+
